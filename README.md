@@ -15,7 +15,6 @@ Files and Folders:
 3.	cooccurrence.m
 4.	GLCM_Features4.m
 5.	CPAR (folder)
-	  |
 	   --- 5.1	MyClass.java
 	   --- 5.2	AssocRuleMining.java
 	   --- 5.3	ClassCPAR_App.java
@@ -31,7 +30,7 @@ Files and Folders:
 
 1.	Install Matlab 2013a
 
-2.	Open the featurevector.m file. It contain two sections and either on them will run everytime depending on your requirement.
+2.	Open the featurevector.m file. It contain two sections and either one of them will run everytime depending on your requirement.
 	See featurevector.m for further understanding.
 	Once it is done, you will have a feature vector.
 
