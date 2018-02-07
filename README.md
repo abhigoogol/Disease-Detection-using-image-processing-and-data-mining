@@ -5,7 +5,7 @@ Project: Knowledge Abstraction from Brain MRI Images Using Statistical Technique
 Author: Abhishek Singh Sambyal	
 USN: 1BI12SCS01
 
-For any querries you can reach me here: abhishek.sambyal@gmail.com
+For any querries you can reach me here: abhishek[dot]sambyal[at]gmail[dot]com
 
 This code is licensed under GNU General Public License v3.0. See GNU General Public License.txt for further details.
 
