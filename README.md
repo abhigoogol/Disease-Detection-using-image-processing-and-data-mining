@@ -1,9 +1,10 @@
 # Disease-Detection-using-image-processing-and-data-mining
 
-This is a project code readme.txt.
-Project: Knowledge Abstraction from Brain MRI Images Using Statistical Techniques and Associative Classification
-Author: Abhishek Singh Sambyal	
-USN: 1BI12SCS01
+M. Tech. project designed and implemented for finding tumors in the brain. We used supervised learning, where different textural features were taken and among those important features were selected using cut points. Those features with their corresponding classes were fed to classifier predicting the correct class.
+
+Project: **Knowledge Abstraction from Brain MRI Images Using Statistical Techniques and Associative Classification**</br>
+Author: Abhishek Singh Sambyal</br>
+USN: 1BI12SCS01</br>
 
 For any querries you can reach me here: abhishek[dot]sambyal[at]gmail[dot]com
 
